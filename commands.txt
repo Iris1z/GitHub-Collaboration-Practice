@@ -1,0 +1,9 @@
+git clone <repository URL>
+git checkout -b ava
+git add members.txt
+git commit -m "Add degree program and research interests"
+git push origin ava
+git checkout main
+git pull origin main
+git checkout -b ava
+
