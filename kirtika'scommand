@@ -1,0 +1,11 @@
+git git clone <repository URL>
+
+git checkout -b kirtika
+
+touch "kirtika's commands"
+
+git add "kirtika'scommand"
+
+git commit -m "kirtika's changes"
+
+git push origin kirtika
